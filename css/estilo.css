@@ -72,9 +72,19 @@ span {
 
 /* Sector Sucursal */
 
-.imagenLocalidad {
+iframe {
     width: 100%;
-    margin: 10px;
-    
+}
+
+/* Sector Certificado */
+
+.contenedorImagen {
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+}
+
+.certificado {
+    width: 60%;
 }
 
