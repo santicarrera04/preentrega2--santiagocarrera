@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Header */
+
+.imgLogo {
+    width: 200px;
+}
+
+.navegacion {
+    background-color: #264653;
+}
+
+.letraEnlace {
+    color: white;
+}
+
+.posicionNav {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+}
