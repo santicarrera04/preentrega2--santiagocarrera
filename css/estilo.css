@@ -88,3 +88,22 @@ iframe {
     width: 60%;
 }
 
+/* Sector Contacto */
+
+form {
+    margin: 20px 20px;
+}
+
+.btn {
+    width: 100%;
+    margin: 5px;
+    background-color: #000000;
+    border: none;
+}
+
+.cuadroTexto {
+    width: 100%;
+    margin-top: 10px;
+}
+
+
